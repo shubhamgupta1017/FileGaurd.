@@ -1,15 +1,3 @@
-Certainly! Here's a cleaned-up, consistent, and well-formatted version of your **Filegaurd** README/project description with improved Markdown, corrected code blocks, and clarified instructions:
-
----
-
-# Filegaurd — Cryptographic File Integrity Verification System
-
-Filegaurd is a comprehensive solution for ensuring file integrity using Merkle trees. By splitting files into multiple chunks, hashing each chunk with SHA-256, and constructing a cryptographic Merkle tree, Filegaurd reliably detects corruption or tampering.
-
-The system comprises a Node.js backend offering secure file upload and verification APIs, and a React frontend for intuitive user interaction.
-
----
-
 ## 🚀 Key Features
 
 * **Granular Chunking**
